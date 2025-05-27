@@ -1,6 +1,6 @@
 ---
-title:          Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos
-date:           2025-04-20 00:01:00 +0800
+title:          Teaching Large Language Models to Maintain Contextual Faithfulness via Synthetic Tasks and Reinforcement Learning
+date:           2025-05-22 00:01:00 +0800
 selected:       true
 pub:            "arXiv"
 # pub_pre:        "Submitted to "
@@ -8,21 +8,24 @@ pub:            "arXiv"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2025"
 
-abstract: >-
-  We introduce MedVideoCap-55K, the first large-scale, diverse, and caption-rich dataset designed for medical video generation. Comprising over 55,000 curated clips from real-world clinical scenarios, it addresses the critical need for both visual fidelity and medical accuracy in applications such as training, education, and simulation.
   
-cover:          assets/images/covers/medvideocap.png
+cover:          assets/images/covers/canoe.png
 authors:
-  - Rongsheng Wang
-  - Junying Chen
-  - Ke Ji
-  - Zhenyang Cai
-  - Shunian Chen
-  - Yunjin Yang
-  - Benyou Wang†
+  - Shuzheng Si
+  - Haozhe Zhao
+  - Cheng Gao
+  - Yuzhuo Bai
+  - Zhitong Wang
+  - Bofei Gao
+  - Kangyang Luo
+  - Wenhao Li
+  - Yufei Huang
+  - Gang Chen
+  - Fanchao Qi
+  - Minjia Zhang
+  - Baobao Chang
+  - Maosong Sun
 links:
-  Project: https://freedomintelligence.github.io/MedGen
-  Paper: https://arxiv.org/
-  Code: https://github.com/FreedomIntelligence/MedGen
-  Dataset: https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K
+  Paper: https://arxiv.org/abs/2505.16483
+  Code: https://github.com/S1s-Z/CANOE
 ---
