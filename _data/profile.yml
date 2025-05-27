@@ -72,8 +72,8 @@ awards:
   date: 2018
   
 service:
-- name: Reviewer of ACL, EMNLP, and NAACL
-- name: Reviewer of NeurIPS, ICLR, ICML
+- name: Reviewer of ACL, EMNLP, NAACL, and COLING
+- name: Reviewer of NeurIPS, ICLR, and ICML
 - name: Reviewer of ICCV
 - name: Reviewer of TASLP
 
