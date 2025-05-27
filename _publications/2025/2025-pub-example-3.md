@@ -1,5 +1,5 @@
 ---
-title:          "Rethinking Semantic Parsing for Large Language Models: Enhancing LLM Performance with Semantic" Hints
+title:          "Rethinking Semantic Parsing for Large Language Models: Enhancing LLM Performance with Semantic Hints"
 date:           2025-04-21 00:01:00 +0800
 selected:       true
 pub:            "ACL"
