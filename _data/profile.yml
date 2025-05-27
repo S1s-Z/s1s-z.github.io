@@ -58,30 +58,18 @@ experience:
 
 
 awards:
-- name: 🎫Kaggle Competitions Expert
-  date: 2025
-- name: 🥇Gold Medal of Kaggle AI Mathematical Olympiad - Progress Prize 2
-  date: 2025
-- name: 🎫Outstanding Award of JingDong Health - Global AI Innovation Competition
-  date: 2024
-- name: 🥇First Prize of Baidu PaddlePaddle AGI Hackathon
-  date: 2024
-- name: 🥉Third Prize of DiMTAIC (Organized by JingDong Health)
-  date: 2023
-- name: 🥉Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: 🥈Silver Medal of Kaggle RSNA Screening Mammography Cancer Detection
-  date: 2023
-- name: 🎫Outstanding Award of IEEE UV 2022 Object Detection Challenge
+- name: Merit Student in PKU
   date: 2022
-- name: 🎫<a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
+- name: Top 10 Outstanding Students Award of YNU in 2020 (Rank #1 in Nomination Awards)
+  date: 2020
+- name: First Class Scholarship
+  date: 2020
+- name: National Scholarship
+  date: 2019
+- name: Provincial Scholarship
+  date: 2018
 
 service:
 - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
 - name: Reviewer of <a href="https://2025.ieeeicme.org/">ICME 2025</a>
 
-# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
-# if you keep the link to the template so that more people can benefit from it. Thanks!
-footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
