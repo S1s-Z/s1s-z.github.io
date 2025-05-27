@@ -36,7 +36,11 @@ education:
   logo: assets/images/badges/PKU_red.png
   position: M.S. in Software Engineering
   date: Sep. 2021 - Jul. 2024
-  
+- name: Yunnan University 
+  logo: assets/images/badges/ynu.png
+  position: B.S. in Information Security (rank: 1/300+)
+  date: Sep. 2017 - Jul. 2021
+
 experience:
 - name: CUHK (SZ)
   logo: assets/images/badges/tsinghua.png
