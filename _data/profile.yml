@@ -72,6 +72,8 @@ awards:
   date: 2018
   
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
-- name: Reviewer of <a href="https://2025.ieeeicme.org/">ICME 2025</a>
+- name: Reviewer of ACL, EMNLP, and NAACL
+- name: Reviewer of NeurIPS, ICLR, ICML
+- name: Reviewer of ICCV
+- name: Reviewer of TASLP
 
