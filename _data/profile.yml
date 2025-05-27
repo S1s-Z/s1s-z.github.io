@@ -39,7 +39,7 @@ short_bio: >-
 
 
 
-show_portrait: True
+show_portrait: False
 portrait_url: assets/images/photos/ssz.jpg
 portrait_caption: >-
   Welcome to my homepage! This photo was taken before I started my research in NLP. Compared to back then, I've gained quite a bit of weight and lost quite a bit of hair :(
