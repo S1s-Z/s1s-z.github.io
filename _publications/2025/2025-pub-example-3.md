@@ -14,7 +14,7 @@ authors:
   - Haozhe Zhao
   - Yuchi Wang
   - Qingyan Guo
-  - Baobao Chang
+  - Baobao Chang (* indicates co-first authors) 
 links:
   Paper: https://arxiv.org/abs/2409.14469
 ---
