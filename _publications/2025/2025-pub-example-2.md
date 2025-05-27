@@ -1,6 +1,6 @@
 ---
 title:          Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering
-date:           2025-04-20 00:01:00 +0800
+date:           2025-05-01 00:01:00 +0800
 selected:       true
 pub:            "ACL"
 # pub_pre:        "Submitted to "
