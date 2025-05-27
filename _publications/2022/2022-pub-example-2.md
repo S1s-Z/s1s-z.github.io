@@ -6,7 +6,7 @@ pub:            "NAACL"
 pub_date:       "2022"
 
 
-cover:          assets/images/covers/scl-rai.png
+cover:          assets/images/covers/queen.png
 authors:
   - Shuzheng Si
   - Shuang Zeng
