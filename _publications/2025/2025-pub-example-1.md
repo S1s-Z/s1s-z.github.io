@@ -3,14 +3,12 @@ title:          Teaching Large Language Models to Maintain Contextual Faithfulne
 date:           2025-05-22 00:01:00 +0800
 selected:       true
 pub:            "arXiv"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
 pub_date:       "2025"
 
   
 cover:          assets/images/covers/canoe.png
 authors:
-  - **Shuzheng Si**
+  - "**Shuzheng Si**"
   - Haozhe Zhao
   - Cheng Gao
   - Yuzhuo Bai
