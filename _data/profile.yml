@@ -68,7 +68,9 @@ awards:
   date: 2019
 - name: Provincial Scholarship
   date: 2018
-
+- name: Provincial Merit Student
+  date: 2018
+  
 service:
 - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
 - name: Reviewer of <a href="https://2025.ieeeicme.org/">ICME 2025</a>
