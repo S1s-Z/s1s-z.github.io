@@ -8,7 +8,7 @@ pub_date:       "2025"
   
 cover:          assets/images/covers/canoe.png
 authors:
-  - "**Shuzheng Si**"
+  - Shuzheng Si
   - Haozhe Zhao
   - Cheng Gao
   - Yuzhuo Bai
