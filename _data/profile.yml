@@ -32,16 +32,15 @@ education:
   logo: assets/images/badges/tsinghua.png
   position: Ph.D. in Computer Science and Technology
   date: Sep. 2024 - Jul. 2028 (expected)
-  
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
   position: M.S. in Software Engineering
   date: Sep. 2021 - Jul. 2024
-  
 - name: Yunnan University 
   logo: assets/images/badges/PKU_red.png
-  position: B.S. in Information Security (rank: 1/300+)
+  position: B.S. in Information Security
   date: Sep. 2017 - Jul. 2021
+  
 
 experience:
 - name: CUHK (SZ)
