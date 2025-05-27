@@ -1,5 +1,5 @@
 ---
-title:          GATEAU: Selecting Influential Samples for Long Context Alignment
+title:          "GATEAU: Selecting Influential Samples for Long Context Alignment"
 date:           2025-05-20 00:01:00 +0800
 selected:       true
 pub:            "arXiv"
