@@ -24,10 +24,10 @@ short_bio: >-
   <br>
   <ul class="pub">
       <li>
-          <b style="text-decoration: underline;">Data Synthesis & Data Selection</b>: My research in this area aims to explore efficient and automated methods for data synthesis, as well as automated validation of data quality, in order to improve model performance.
+          <b style="text-decoration: underline;">Data Synthesis & Data Selection</b>: My research in this area aims to explore automated methods for data synthesis (), as well as automated validation of data quality (), in order to improve model performance.
       </li>
       <li>
-          <b style="text-decoration: underline;">Data-Efficient Methods for Post-Training</b>:
+          <b style="text-decoration: underline;">Data-Efficient Methods for Post-Training</b>: This area of research attempts to explore data-efficient approaches for improving model performance, such as using noisy data from real-world scenarios to train the model () and maximizing the positive impact of the data on the model ().
       </li>
   </ul>
 
