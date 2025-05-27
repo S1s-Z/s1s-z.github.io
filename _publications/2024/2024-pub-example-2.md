@@ -16,6 +16,6 @@ authors:
   - Zefan Cai
   - Baobao Chang
 links:
-  Paper: https://arxiv.org/abs/2311.08010
+  Paper: https://aclanthology.org/2024.findings-acl.329/
   Code: https://github.com/S1s-Z/CENSOR
 ---
