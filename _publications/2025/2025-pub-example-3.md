@@ -3,7 +3,7 @@ title:          "Rethinking Semantic Parsing for Large Language Models: Enhancin
 date:           2025-04-21 00:01:00 +0800
 selected:       true
 pub:            "ACL"
-pub_date:       "2025"
+pub_date:       "2025 (* indicates co-first authors)"
 
   
 cover:          assets/images/covers/rethinking.png
@@ -14,7 +14,7 @@ authors:
   - Haozhe Zhao
   - Yuchi Wang
   - Qingyan Guo
-  - Baobao Chang (* indicates co-first authors) 
+  - Baobao Chang 
 links:
   Paper: https://arxiv.org/abs/2409.14469
 ---
