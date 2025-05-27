@@ -1,26 +1,28 @@
 ---
-title:          "GATEAU: Selecting Influential Samples for Long Context Alignment"
-date:           2025-05-20 00:01:00 +0800
+title:          Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering
+date:           2025-04-20 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
+pub:            "ACL"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_date:       "2025"
 
   
-cover:          assets/images/covers/gateau.png
+cover:          assets/images/covers/nova.png
 authors:
   - Shuzheng Si
   - Haozhe Zhao
   - Gang Chen
-  - Yunshui Li
-  - Kangyang Luo
-  - Chuancheng Lv
+  - Cheng Gao
+  - Yuzhuo Bai
+  - Zhitong Wang
   - Kaikai An
+  - Kangyang Luo
+  - Chen Qian,
   - Fanchao Qi
   - Baobao Chang
   - Maosong Sun
 links:
-  Paper: https://arxiv.org/abs/2410.15633
-  Code: https://github.com/S1s-Z/GATEAU
+  Paper: https://arxiv.org/abs/2502.07340
+  Code: https://github.com/S1s-Z/NOVA
 ---
