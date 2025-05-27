@@ -14,6 +14,6 @@ authors:
   - Baobao Chang
 
 links:
-  Paper: https://arxiv.org/abs/2305.13040
+  Paper: https://arxiv.org/abs/2209.01646
   Code: https://github.com/S1s-Z/SCL-RAI
 ---
