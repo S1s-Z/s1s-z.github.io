@@ -36,10 +36,6 @@ education:
   logo: assets/images/badges/PKU_red.png
   position: M.S. in Software Engineering
   date: Sep. 2021 - Jul. 2024
-- name: Yunnan University 
-  logo: assets/images/badges/ynu.png
-  position: B.S. in Information Security (rank: 1/300+)
-  date: Sep. 2017 - Jul. 2021
   
 experience:
 - name: CUHK (SZ)
@@ -50,9 +46,9 @@ experience:
   logo: assets/images/badges/qiyuan.png
   position: CTO, Reasercher
   date: Oct. 2023 - Now
-- name: HKUST (GZ) 
+- name: SenseTime
   logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
+  position: Research Intern (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
   date: Feb. 2024 -	May 2024
 
 
