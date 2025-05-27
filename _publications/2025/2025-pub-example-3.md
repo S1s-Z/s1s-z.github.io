@@ -2,10 +2,9 @@
 title:          Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering
 date:           2025-04-21 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
+pub:            "ACL 2025"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">ACL 2025</span>'
 pub_date:       "2025"
 
   
