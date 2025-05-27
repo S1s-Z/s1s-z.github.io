@@ -2,7 +2,7 @@
 title:          "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition"
 date:           2023-08-01 00:01:00 +0800
 selected:       true
-pub:            "ACL"
+pub:            "ACL (Findings)"
 pub_date:       "2023"
 
 
