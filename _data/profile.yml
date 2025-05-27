@@ -43,18 +43,18 @@ education:
   
 
 experience:
-- name: CUHK (SZ)
-  logo: assets/images/badges/tsinghua.png
-  position: Research Assistant (Supervisor is <a href="https://wabyking.github.io/old.html">Benyou Wang</a>)
-  date: Sep. 2024 - Now
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: SenseTime
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Intern (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+- name: DeepLang AI
+  logo: assets/images/badges/deeplang.png
+  position: Research Intern
+  date: Apr. 2024 - Now
+- name: Alibaba DAMO Academy
+  logo: assets/images/badges/damo.png
+  position: Research Intern
+  date: Jun. 2022 - Jun. 2023
+- name: SenseTime Research
+  logo: assets/images/badges/sensetime.png
+  position: Research Intern
+  date: Jul. 2021 -	Feb. 2022
 
 
 awards:
