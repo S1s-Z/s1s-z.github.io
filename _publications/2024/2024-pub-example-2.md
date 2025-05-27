@@ -2,7 +2,7 @@
 title:          Improving the Robustness of Distantly-Supervised Named Entity Recognition via Uncertainty-Aware Teacher Learning and Student-Student Collaborative Learning
 date:           2024-05-22 00:01:00 +0800
 selected:       true
-pub:            "ACL"
+pub:            "ACL (Findings)"
 pub_date:       "2024"
 
   
