@@ -18,7 +18,7 @@ authors:
   - Zhitong Wang
   - Kaikai An
   - Kangyang Luo
-  - Chen Qian,
+  - Chen Qian
   - Fanchao Qi
   - Baobao Chang
   - Maosong Sun
