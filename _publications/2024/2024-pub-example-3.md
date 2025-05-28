@@ -6,7 +6,7 @@ pub:            "ICLR"
 pub_date:       "2024 (* indicates co-first authors)"
 
   
-cover:          assets/images/covers/mmicl.png
+cover:          assets/images/covers/mmicl2.png
 authors:
   - Haozhe Zhao*
   - Zefan Cai*
