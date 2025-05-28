@@ -6,7 +6,7 @@ pub:            "ACL"
 pub_date:       "2025 (* indicates co-first authors)"
 
   
-cover:          assets/images/covers/rethinking.png
+cover:          assets/images/covers/rethinking2.png
 authors:
   - Kaikai An*
   - Shuzheng Si*
