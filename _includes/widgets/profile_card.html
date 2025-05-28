@@ -16,9 +16,7 @@
                         <p class="text-profile-bio">
                             {{ site.data.profile.short_bio }}
                         </p>
-                    </div>
-                    {% if site.data.profile.show_portrait %}
-                    <div class="col-md-auto d-none d-md-block">
+                        {% if site.data.profile.show_portrait %}
                         <figure class="figure float-md-right ml-3 mb-3">
                             <img 
                                 src="{{ site.data.profile.portrait_url }}" 
