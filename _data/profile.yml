@@ -79,7 +79,7 @@ experience:
 awards:
 - name: Merit Student
   date: 2022
-- name: "Top 10 Outstanding Students Award (Rank #1 in Nomination Awards)"
+- name: "Top 10 Outstanding Students Nomination Award (Ranked 1st)"
   date: 2020
 - name: First Class Scholarship
   date: 2020
@@ -94,5 +94,5 @@ service:
 - name: "For NLP Research Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
 - name: "For ML Research Communities: Reviewer of NeurIPS, ICLR, and ICML"
 - name: "For CV Research Communities: Reviewer of ICCV"
-- name: "I am also a member of the  <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications "
+- name: I am also a member of the <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications
 
