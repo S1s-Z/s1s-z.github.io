@@ -91,9 +91,8 @@ awards:
   date: 2018
   
 service:
-- name: For NLP Community: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP
-- name: For ML Community: Reviewer of NeurIPS, ICLR, and ICML
-- name: For CV Community: Reviewer of ICCV
-- name: For top-tier Reviewer of TASLP
-- name: I am also a member of the  <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications
+- name: "For NLP Community: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
+- name: "For ML Community: Reviewer of NeurIPS, ICLR, and ICML"
+- name: "For CV Community: Reviewer of ICCV"
+- name: "I am also a member of the  <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications"
 
