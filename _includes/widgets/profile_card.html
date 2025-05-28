@@ -13,9 +13,6 @@
                             <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
                             {% endif %}
                         </p>
-                        <p class="text-profile-bio">
-                            {{ site.data.profile.short_bio }}
-                        </p>
                         {% if site.data.profile.show_portrait %}
                         <figure class="figure float-md-right ml-3 mb-3">
                             <img 
@@ -28,6 +25,9 @@
                             >
                             <figcaption class="figure-caption text-right"></figcaption>
                         </figure>
+                        <p class="text-profile-bio">
+                            {{ site.data.profile.short_bio }}
+                        </p>
                     </div>
                     {% endif %}
         
