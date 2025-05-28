@@ -91,8 +91,8 @@ awards:
   date: 2018
   
 service:
-- name: "For NLP Research Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
-- name: "For ML Research Communities: Reviewer of NeurIPS, ICLR, and ICML"
-- name: "For CV Research Communities: Reviewer of ICCV"
+- name: "NLP Research Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
+- name: "ML Research Communities: Reviewer of NeurIPS, ICLR, and ICML"
+- name: "CV Research Communities: Reviewer of ICCV"
 - name: I am also a member of the <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications
 
