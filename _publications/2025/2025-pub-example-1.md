@@ -2,7 +2,7 @@
 title:          Teaching Large Language Models to Maintain Contextual Faithfulness via Synthetic Tasks and Reinforcement Learning
 date:           2025-05-22 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
+pub:            "ACL Workshop KnowFM (Oral Presentation)"
 pub_date:       "2025"
 
   
