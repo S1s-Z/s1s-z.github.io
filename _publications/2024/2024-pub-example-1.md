@@ -1,9 +1,9 @@
 ---
 title:          "GATEAU: Selecting Influential Samples for Long Context Alignment"
-date:           2024-10-01 00:01:00 +0800
+date:           2025-05-01 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
-pub_date:       "2024"
+pub:            "EMNLP"
+pub_date:       "2025"
 
 
 cover:          assets/images/covers/gateau.png
