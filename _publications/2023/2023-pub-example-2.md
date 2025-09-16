@@ -15,6 +15,6 @@ authors:
   - Jiaxing Lin
   - Baobao Chang
 links:
-  Paper: https://arxiv.org/pdf/2305.04076
+  Paper: https://arxiv.org/abs/2305.04076
   Code: https://github.com/S1s-Z/SANTA
 ---
