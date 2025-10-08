@@ -3,7 +3,7 @@ title:          "A Goal Without a Plan Is Just a Wish: Efficient and Effective G
 date:           2025-10-08 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
-pub_date:       "2025 (* indicates co-first authors)"
+pub_date:       "2025"
 
   
 cover:          assets/images/covers/plan.png
