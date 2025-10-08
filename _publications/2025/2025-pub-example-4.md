@@ -6,7 +6,7 @@ pub:            "Preprint"
 pub_date:       "2025 (* indicates co-first authors)"
 
   
-cover:          assets/images/covers/rethinking2.png
+cover:          assets/images/covers/plan.png
 authors:
   - Shuzheng Si
   - Haozhe Zhao
