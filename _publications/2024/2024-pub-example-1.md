@@ -1,6 +1,6 @@
 ---
 title:          "GATEAU: Selecting Influential Samples for Long Context Alignment"
-date:           2025-10-01 00:01:00 +0800
+date:           2025-05-21 00:01:00 +0800
 selected:       true
 pub:            "EMNLP"
 pub_date:       "2025 (reviewer’s score: 4/ 4/ 4)"
