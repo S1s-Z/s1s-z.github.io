@@ -1,5 +1,5 @@
 ---
-title:          "Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance"
+title:          "Looking Beyond Text: Reducing Language Bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance"
 date:           2025-05-01 00:01:00 +0800
 selected:       true
 pub:            "EMNLP"
