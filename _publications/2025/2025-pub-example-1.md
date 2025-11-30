@@ -3,7 +3,7 @@ title:          Teaching Large Language Models to Maintain Contextual Faithfulne
 date:           2025-05-22 00:01:00 +0800
 selected:       true
 pub:            "AAAI"
-pub_date:       "2026 (Oral Presentation)"
+pub_date:       "2026 (Oral Presentation), KnowFM@ACL 2025 Workshop (Oral Presentation)"
 
   
 cover:          assets/images/covers/canoe.png
