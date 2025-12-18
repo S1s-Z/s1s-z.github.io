@@ -6,7 +6,7 @@ pub:            "Technical Report"
 pub_date:       "2025 (* indicates co-first authors)"
 
   
-cover:          assets/images/covers/edu.png
+cover:          assets/images/covers/edu-tree.png
 authors:
   - Yiqing Zhou*
   - Yu Lei*
