@@ -12,7 +12,7 @@ authors:
   - Yu Lei*
   - Shuzheng Si*
   - Qingyan Sun
-  - Wei Wang*
+  - Wei Wang
   - Yifei Wu
   - Hao Wen
   - Gang Chen
