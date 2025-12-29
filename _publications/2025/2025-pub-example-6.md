@@ -11,7 +11,7 @@ authors:
   - Yiqing Zhou*
   - Yu Lei*
   - Shuzheng Si*
-  - Qingyan Sun
+  - Qingyan Sun*
   - Wei Wang
   - Yifei Wu
   - Hao Wen
