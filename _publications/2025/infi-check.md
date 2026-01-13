@@ -1,15 +1,15 @@
 ---
 title:          "InFi-Check: Interpretable and Fine-Grained Fact-Checking of LLMs"
-date:           2025-06-01 00:01:00 +0800
+date:           2025-05-02 00:01:00 +0800
 selected:       true
-pub:            "Preprint"
-pub_date:       "2025"
+pub:            "KnowFM@ACL"
+pub_date:       "2025 Workshop (Oral, * indicates co-first authors)"
 
   
 cover:          assets/images/covers/infi-check.png
 authors:
-  - Yuzhuo Bai
-  - Shuzheng Si
+  - Yuzhuo Bai*
+  - Shuzheng Si*
   - Kangyang Luo
   - Qingyi Wang
   - Wenhao Li
