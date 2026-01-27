@@ -3,7 +3,7 @@ title:          "FaithLens: Detecting and Explaining Faithfulness Hallucination"
 date:           2025-12-24 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
-pub_date:       "2025, Selected as Top Papers of Last Week by Rohan Paul"
+pub_date:       "2025"
 
   
 cover:          assets/images/covers/faithlens.png
