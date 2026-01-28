@@ -21,6 +21,7 @@ authors:
   - Maosong Sun 
 links:
   Paper: https://arxiv.org/abs/2512.20182
-  Code: https://github.com/S1s-Z/FaithLens
+  Code: https://github.com/S1s-Z/FaithLen
+  CCTV News: https://city.news.cctv.com/2026/01/27/VIDEjXET69XnS4QslQWk2VuQ260127.shtml
 
 ---
