@@ -21,5 +21,6 @@ authors:
   - Maosong Sun 
 links:
   Paper: https://arxiv.org/abs/2512.20182
-  Code: https://github.com/S1s-Z/FaithLen
+  Code: https://github.com/S1s-Z/FaithLens
+
 ---
