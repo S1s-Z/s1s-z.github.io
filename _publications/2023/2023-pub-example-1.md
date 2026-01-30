@@ -20,5 +20,6 @@ authors:
   - Yongbin Li
 links:
   Paper: https://arxiv.org/abs/2305.13040
-  Code: https://spokenwoz.github.io/
+  Code: https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/spokenwoz
+  Page: https://spokenwoz.github.io/
 ---
