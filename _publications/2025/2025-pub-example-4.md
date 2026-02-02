@@ -18,4 +18,5 @@ authors:
   - Maosong Sun 
 links:
   Paper: https://arxiv.org/abs/2510.05608
+  Code: https://s1s-z.github.io/
 ---
