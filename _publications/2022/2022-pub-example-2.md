@@ -3,7 +3,7 @@ title:          "Mining Clues from Incomplete Utterance: A Query-Enhanced Networ
 date:           2022-11-01 00:01:00 +0800
 selected:       true
 pub:            "NAACL"
-pub_date:       "2022"
+pub_date:       "2022 (Oral)"
 
 
 cover:          assets/images/covers/queen.png
