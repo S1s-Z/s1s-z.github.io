@@ -2,7 +2,7 @@
 title:          "From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition"
 date:           2025-12-17 00:01:00 +0800
 selected:       true
-pub:            "Technical Report"
+pub:            "Technical Report from DeepLang AI"
 pub_date:       "2025 (* indicates co-first authors)"
 
   
