@@ -2,7 +2,7 @@
 title:          "RhinoInsight: Improving Deep Research through Control Mechanisms for Model Behavior and Context"
 date:           2025-11-25 00:01:00 +0800
 selected:       true
-pub:            "Technical Report"
+pub:            "Technical Report from DeepLang AI"
 pub_date:       "2025 (* indicates co-first authors)"
 
   
