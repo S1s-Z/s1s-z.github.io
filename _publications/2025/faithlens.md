@@ -2,8 +2,8 @@
 title:          "FaithLens: Detecting and Explaining Faithfulness Hallucination"
 date:           2025-12-24 00:01:00 +0800
 selected:       true
-pub:            "Preprint"
-pub_date:       "2025, 20,000+ downloads on Hugging Face 🤗"
+pub:            "ACL (Findings)"
+pub_date:       "2026, 20,000+ downloads on Hugging Face 🤗"
 
   
 cover:          assets/images/covers/faithlens.png
