@@ -75,10 +75,10 @@ experience:
   logo: assets/images/badges/ali.png
   position: Research Intern
   date: Jun. 2022 - Jun. 2023
-- name: SenseTime Research
-  logo: assets/images/badges/sensetime.png
-  position: Research Intern
-  date: Jul. 2021 - Feb. 2022
+# - name: SenseTime Research
+#   logo: assets/images/badges/sensetime.png
+#   position: Research Intern
+#   date: Jul. 2021 - Feb. 2022
 
 
 awards:
