@@ -63,6 +63,10 @@ education:
   
 
 experience:
+- name: University of Illinois Urbana-Champaign
+  logo: assets/images/badges/uiuc.png
+  position: Remote Visiting PhD Student
+  date: Apr. 2025 - Now
 - name: DeepLang AI
   logo: assets/images/badges/deeplang.png
   position: Research Staff
