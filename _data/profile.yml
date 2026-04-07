@@ -103,5 +103,5 @@ service:
 - name: "NLP Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
 - name: "ML Communities: Reviewer of NeurIPS, ICLR, ICML, and AAAI"
 - name: "CV Communities: Reviewer of ICCV"
-- name: "I am also a member of the <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications"
 - name: "Teaching Assistant: Natural Language Processing at PKU, Computational Linguistics at THU"
+- name: "I am also a member of the <a href="https://huggingface.co/birdsql">BIRD team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications"
