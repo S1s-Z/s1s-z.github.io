@@ -65,19 +65,19 @@ education:
 experience:
 - name: University of Illinois Urbana-Champaign
   logo: assets/images/badges/uiuc.png
-  position: Remote PhD Researcher
+  position: Remote PhD Researcher, collaborating with Minjia Zhang and Haozhe Zhao
   date: Aug. 2025 - Now
 - name: DeepLang AI
   logo: assets/images/badges/deeplang.png
-  position: Research Staff
+  position: Research Staff, collaborating with Fanchao Qi and Gang Chen
   date: Apr. 2024 - Now
 - name: Alibaba DAMO Academy
   logo: assets/images/badges/ali.png
-  position: Research Intern
+  position: Research Intern, collaborating with Yongbin Li, Yuchuan Wu, and Wentao Ma
   date: Jun. 2022 - Jun. 2023
 - name: SenseTime Research
   logo: assets/images/badges/sensetime.png
-  position: Research Intern
+  position: Research Intern, collaborating with Liwei Wang, Meng Fang, and Jianqiao Zhao
   date: Jul. 2021 - Feb. 2022
 
 
