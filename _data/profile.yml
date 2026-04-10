@@ -103,5 +103,5 @@ service:
 - name: "NLP Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
 - name: "ML Communities: Reviewer of NeurIPS, ICLR, ICML, and AAAI"
 - name: "CV Communities: Reviewer of ICCV"
-- name: "Teaching Assistant: Natural Language Processing, Spring 2023, PKU; Computational Linguistics, Fall 2024, THU"
+- name: "Teaching Assistant: Natural Language Processing, Spring 2023, PKU; Computational Linguistics, Fall 2025, THU"
 - name: I am also a member of the <a href="https://huggingface.co/birdsql">BIRD Team</a>, led by the talent researcher Jinyang Li, which drives the development of text-to-SQL for real-world database applications
