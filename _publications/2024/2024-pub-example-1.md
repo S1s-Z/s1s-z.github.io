@@ -3,7 +3,7 @@ title:          "GATEAU: Selecting Influential Samples for Long Context Alignmen
 date:           2025-05-21 00:01:00 +0800
 selected:       true
 pub:            "EMNLP"
-pub_date:       "2025 SAC Highlights Award 🏆 (top 35 out of 8,000+ submissions, ~ top 0.5%, (reviewer’s score: 4/ 4/ 4/ 4))"
+pub_date:       "2025 SAC Highlights Award 🏆 (top 35 out of 8,000+ submissions, ~ top 0.5%, reviewer’s score: 4/ 4/ 4/ 4)"
 
 
 cover:          assets/images/covers/gateau.png
