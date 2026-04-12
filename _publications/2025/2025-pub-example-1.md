@@ -6,7 +6,7 @@ pub:            "AAAI"
 pub_date:       "2026 (Oral), KnowFM@ACL 2025 Workshop (Oral)"
 
   
-cover:          assets/images/covers/canoe.png
+cover:          assets/images/covers/canoe-intro.png
 authors:
   - Shuzheng Si
   - Haozhe Zhao
