@@ -21,4 +21,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2410.15633
   Code: https://github.com/S1s-Z/GATEAU
+  X/Twitter by Rohan Paul: https://x.com/rohanpaul_ai/status/1857945825529462843
 ---
