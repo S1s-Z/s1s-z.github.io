@@ -22,6 +22,6 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2512.20182
   Code: https://github.com/S1s-Z/FaithLens
-  X/Twitter by Rohan Paul: https://x.com/rohanpaul_ai/status/2004379891383390654
+  Twitter by Rohan Paul: https://x.com/rohanpaul_ai/status/2004379891383390654
 
 ---
