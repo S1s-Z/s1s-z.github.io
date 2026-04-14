@@ -19,5 +19,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2510.05608
   Code: https://github.com/S1s-Z?tab=repositories
-  X/Twitter by Rohan Paul: https://x.com/rohanpaul_ai/status/1977883550180393286
+  Twitter by Rohan Paul: https://x.com/rohanpaul_ai/status/1977883550180393286
 ---
