@@ -21,7 +21,7 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2512.14244
   Code: https://github.com/DeepLangAI/LingoEDU
-  CCTV News: https://city.news.cctv.com/2026/01/27/VIDEjXET69XnS4QslQWk2VuQ260127.shtml?12121=
+  央视网: https://city.news.cctv.com/2026/01/27/VIDEjXET69XnS4QslQWk2VuQ260127.shtml?12121=
   量子位: https://mp.weixin.qq.com/s/JzNu6CDrjOhPw_6783ymZg
 
 ---
