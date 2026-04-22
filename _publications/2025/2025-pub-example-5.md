@@ -18,6 +18,6 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2511.18743
   Code: https://github.com/Weizhena/Deep-Research-skills
-  Project: https://research.deeplang.net/
+  Demo: https://research.deeplang.net/
 
 ---
