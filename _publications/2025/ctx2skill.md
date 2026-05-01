@@ -6,7 +6,7 @@ pub:            "Preprint"
 pub_date:       "2026"
 
   
-cover:          assets/images/covers/ctx2skill_intro.png
+cover:          assets/images/covers/ctx2skill.png
 authors:
   - Shuzheng Si
   - Haozhe Zhao
