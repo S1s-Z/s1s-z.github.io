@@ -22,7 +22,7 @@ authors:
   - Minjia Zhang
   - Maosong Sun
 links:
-  Paper: https://github.com/S1s-Z/Ctx2Skill/blob/main/Ctx2Skill-preprint.pdf
+  Paper: https://arxiv.org/abs/2604.27660
   Code: https://github.com/S1s-Z/Ctx2Skill
 
 ---
