@@ -24,6 +24,6 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2604.27660
   Code: https://github.com/S1s-Z/Ctx2Skill
-  Daily Paper: https://huggingface.co/papers/2604.27660
+  Daily Papers: https://huggingface.co/papers/2604.27660
   Twitter by AK: https://x.com/_akhaliq/status/2051709659115872311
 ---
