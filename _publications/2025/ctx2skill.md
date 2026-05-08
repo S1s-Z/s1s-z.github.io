@@ -3,7 +3,7 @@ title:          "From Context to Skills: Can Language Models Learn from Context 
 date:           2026-04-30 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
-pub_date:       "2026, #2 Paper of the Day, #2 Paper of the Week 🤗"
+pub_date:       "2026, #2 Paper of the Week (May 3-9) 🤗"
 
   
 cover:          assets/images/covers/ctx2skill_method.png
