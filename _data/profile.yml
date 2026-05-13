@@ -50,8 +50,8 @@ portrait_caption: >-
 education:
 - name: Tsinghua University
   logo: assets/images/badges/tsinghua.png
-  position: Ph.D. in Computer Science, Core GPA: 4.0/4.0
-  date: Sep. 2024 - Present
+  position: "Ph.D. in Computer Science, Core GPA: 4.0/4.0"
+  date: "Sep. 2024 - Present"
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
   position: M.S. in Software Engineering
