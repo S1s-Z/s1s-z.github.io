@@ -50,11 +50,11 @@ portrait_caption: >-
 education:
 - name: Tsinghua University
   logo: assets/images/badges/tsinghua.png
-  position: "Ph.D. in Computer Science, advised by Prof. Maosong Sun"
+  position: "Ph.D. in Computer Science and Technology"
   date: "Sep. 2024 - Present"
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
-  position: "M.S. in Software Engineering, advised by Prof. Baobao Chang"
+  position: "M.S. in Software Engineering"
   date: Sep. 2021 - Jul. 2024
 - name: Yunnan University 
   logo: assets/images/badges/ynu.png
@@ -65,7 +65,7 @@ education:
 experience:
 - name: University of Illinois Urbana-Champaign
   logo: assets/images/badges/uiuc.png
-  position: "Ph.D. Student Researcher, advised by Prof. Minjia Zhang"
+  position: "Student Researcher, working with Prof.Minjia Zhang and Haozhe Zhao"
   date: Aug. 2025 - Now
 - name: DeepLang AI
   logo: assets/images/badges/deeplang.png
