@@ -13,7 +13,7 @@ authors:
   - Liang Chen
   - Yichi Zhang
   - Maosong Sun
-  - Mingjia Zhang
+  - Minjia Zhang
   - Baobao Chang
 links:
   Paper: https://arxiv.org/abs/2411.14279
