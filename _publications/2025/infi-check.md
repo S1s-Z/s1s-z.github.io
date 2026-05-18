@@ -3,7 +3,7 @@ title:          "InFi-Check: Interpretable and Fine-Grained Fact-Checking of LLM
 date:           2025-05-02 00:01:00 +0800
 selected:       true
 pub:            "KnowFM@ACL"
-pub_date:       "2025 Workshop (Oral, * indicates co-first authors)"
+pub_date:       "2025 Workshop (Oral 🌟, * indicates co-first authors)"
 
   
 cover:          assets/images/covers/infi-check.png
