@@ -3,7 +3,7 @@ title:          "A Goal Without a Plan Is Just a Wish: Efficient and Effective G
 date:           2025-12-18 00:01:00 +0800
 selected:       true
 pub:            "ACL"
-pub_date:       "2026 (Oral)"
+pub_date:       "2026 (Oral 🌟)"
 
   
 cover:          assets/images/covers/plan.png
