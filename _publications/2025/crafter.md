@@ -3,13 +3,13 @@ title:          "Crafter: A Multi-Agent Harness for Editable Scientific Figure G
 date:           2026-04-29 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
-pub_date:       "2026"
+pub_date:       "2026 (* indicates co-first authors)"
 
   
 cover:          assets/images/covers/crafter.png
 authors:
-  - Haozhe Zhao
-  - Shuzheng Si
+  - Haozhe Zhao*
+  - Shuzheng Si*
   - Zhenhailong Wang
   - Zheng Wang
   - Liang Chen
