@@ -20,4 +20,6 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2605.30611
   Code: https://github.com/HaozheZhao/Crafter
+  Daily Papers: https://huggingface.co/papers/2605.30611
+  Twitter by AK: https://x.com/_akhaliq/status/2061835314599993392
 ---
