@@ -3,7 +3,7 @@ title:          "FaithLens: Detecting and Explaining Faithfulness Hallucination"
 date:           2025-12-24 00:01:00 +0800
 selected:       true
 pub:            "ACL (Findings)"
-pub_date:       "2026, KnowFM@ACL 2026 Workshop (Oral 🌟), 20,000+ downloads on Hugging Face 🤗"
+pub_date:       "2026, KnowFM@ACL 2026 Workshop (Oral 🌟)"
 
   
 cover:          assets/images/covers/faithlens.png
