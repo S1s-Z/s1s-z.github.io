@@ -3,7 +3,7 @@ title:          "Crafter: A Multi-Agent Harness for Editable Scientific Figure G
 date:           2026-04-29 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
-pub_date:       "2026 (* indicates co-first authors), #2 Paper of the Week (May 31 - Jun 6) 🤗"
+pub_date:       "2026 (* indicates co-first authors), #1 Paper of the Day (Jun 2) 🤗"
 
   
 cover:          assets/images/covers/crafter.png
