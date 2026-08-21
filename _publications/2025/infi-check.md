@@ -1,6 +1,6 @@
 ---
 title:          "InFi-Check: Interpretable and Fine-Grained Fact-Checking of LLMs"
-date:           2026-01-01 00:01:00 +0800
+date:           2025-12-20 00:01:00 +0800
 selected:       true
 pub:            "EMNLP 2026 (* indicates co-first authors), KnowFM@ACL"
 pub_date:       "2025 Workshop (Oral 🌟)"
