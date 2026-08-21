@@ -1,6 +1,6 @@
 ---
 title:          "A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks"
-date:           2025-12-18 00:01:00 +0800
+date:           2025-12-24 00:01:00 +0800
 selected:       true
 pub:            "ACL"
 pub_date:       "2026 (Oral 🌟)"
