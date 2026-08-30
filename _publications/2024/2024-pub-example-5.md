@@ -17,5 +17,5 @@ authors:
   - Baobao Chang
 links:
   Paper: https://arxiv.org/abs/2411.14279
-  Code: https://lacing-lvlm.github.io/
+  Code: https://github.com/HaozheZhao/LACING
 ---
