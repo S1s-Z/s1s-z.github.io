@@ -83,10 +83,10 @@ experience:
   logo: assets/images/badges/tongyi.png
   position: Research Intern
   date: Jun. 2022 - Jun. 2023
-- name: SenseTime Research
-  logo: assets/images/badges/sensetime.png
-  position: Research Intern
-  date: Jul. 2021 - Feb. 2022
+# - name: SenseTime Research
+#   logo: assets/images/badges/sensetime.png
+#   position: Research Intern
+#   date: Jul. 2021 - Feb. 2022
 
 
 awards:
@@ -105,6 +105,8 @@ awards:
 # - name: "Student of the Year Nominee Award (Ranked 1st, the highest award in YNU)"
 - name: "Student of the Year Nominee Award (the highest award in YNU)"
   date: 2020
+# - name: "First-Class Scholarship"
+#   date: 2020
 - name: National Scholarship
   date: 2019
 - name: Provincial Government Scholarship
