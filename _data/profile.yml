@@ -67,18 +67,18 @@ education:
   
 
 experience:
-- name: Tencent Hunyuan
-  logo: assets/images/badges/hy.png
-  position: LLM Post-Training Intern
-  date: Jun. 2026 - Now
+# - name: Tencent Hunyuan
+#   logo: assets/images/badges/hy.png
+#   position: LLM Post-Training Intern
+#   date: Jun. 2026 - Now
 # - name: University of Illinois Urbana-Champaign
 #   logo: assets/images/badges/uiuc.png
 #   position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
 #   date: Aug. 2025 - Jun. 2026
-# - name: DeepLang AI
-#   logo: assets/images/badges/deeplang.png
-#   position: Research Intern
-#   date: Apr. 2024 - Now
+- name: DeepLang AI
+  logo: assets/images/badges/deeplang.png
+  position: Research Intern
+  date: Apr. 2024 - Now
 - name: Tongyi Lab
   logo: assets/images/badges/tongyi.png
   position: Research Intern
