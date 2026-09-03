@@ -52,10 +52,10 @@ education:
   logo: assets/images/badges/tsinghua.png
   position: "Ph.D. in Computer Science and Technology"
   date: "Sep. 2024 - Present"
-- name: University of Illinois Urbana-Champaign
-  logo: assets/images/badges/uiuc.png
-  position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
-  date: Aug. 2025 - Jun. 2026
+# - name: University of Illinois Urbana-Champaign
+#   logo: assets/images/badges/uiuc.png
+#   position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
+#   date: Aug. 2025 - Jun. 2026
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
   position: "M.S. in Software Engineering"
