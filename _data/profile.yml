@@ -67,10 +67,10 @@ education:
   
 
 experience:
-# - name: Tencent Hunyuan
-#   logo: assets/images/badges/hy.png
-#   position: LLM Post-Training Intern
-#   date: Jun. 2026 - Now
+- name: Tencent Hunyuan
+  logo: assets/images/badges/hy.png
+  position: LLM Post-Training Intern
+  date: Jun. 2026 - Now
 # - name: University of Illinois Urbana-Champaign
 #   logo: assets/images/badges/uiuc.png
 #   position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
