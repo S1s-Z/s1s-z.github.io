@@ -52,6 +52,10 @@ education:
   logo: assets/images/badges/tsinghua.png
   position: "Ph.D. in Computer Science and Technology"
   date: "Sep. 2024 - Present"
+- name: University of Illinois Urbana-Champaign
+  logo: assets/images/badges/uiuc.png
+  position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
+  date: Aug. 2025 - Jun. 2026
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
   position: "M.S. in Software Engineering"
@@ -63,26 +67,26 @@ education:
   
 
 experience:
-# - name: Tencent Hunyuan
-#   logo: assets/images/badges/hy.png
-#   position: LLM Post-Training Intern
-#   date: Jun. 2026 - Now
-- name: University of Illinois Urbana-Champaign
-  logo: assets/images/badges/uiuc.png
-  position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
-  date: Aug. 2025 - Jun. 2026
-- name: DeepLang AI
-  logo: assets/images/badges/deeplang.png
-  position: Research Intern
-  date: Apr. 2024 - Now
+- name: Tencent Hunyuan
+  logo: assets/images/badges/hy.png
+  position: LLM Post-Training Intern
+  date: Jun. 2026 - Now
+# - name: University of Illinois Urbana-Champaign
+#   logo: assets/images/badges/uiuc.png
+#   position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
+#   date: Aug. 2025 - Jun. 2026
+# - name: DeepLang AI
+#   logo: assets/images/badges/deeplang.png
+#   position: Research Intern
+#   date: Apr. 2024 - Now
 - name: Tongyi Lab
   logo: assets/images/badges/tongyi.png
   position: Research Intern
   date: Jun. 2022 - Jun. 2023
-# - name: SenseTime Research
-#   logo: assets/images/badges/sensetime.png
-#   position: Research Intern
-#   date: Jul. 2021 - Feb. 2022
+- name: SenseTime Research
+  logo: assets/images/badges/sensetime.png
+  position: Research Intern
+  date: Jul. 2021 - Feb. 2022
 
 
 awards:
