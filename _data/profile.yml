@@ -111,8 +111,8 @@ awards:
 #   date: 2020
 - name: National Scholarship
   date: 2019
-- name: Provincial Government Scholarship
-  date: 2018
+# - name: Provincial Government Scholarship
+#   date: 2018
   
 service:
 - name: "NLP Communities: Reviewer of ACL, EMNLP, NAACL, COLING, and TASLP"
