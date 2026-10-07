@@ -90,7 +90,9 @@ experience:
 
 
 awards:
-- name: National Scholarship & Tsinghua Tanzhen Scholar Award
+- name: National Scholarship
+  date: 2026
+- name: Tsinghua Tanzhen Scholar Award
   date: 2026
 - name: CIE–Tencent Ph.D. Research Incentive Program
   date: 2026
@@ -105,8 +107,8 @@ awards:
 - name: Merit Student, PKU
   date: 2022
 # - name: "Student of the Year Nominee Award (Ranked 1st, the highest award in YNU)"
-- name: "Student of the Year Nominee Award (the highest award in YNU)"
-  date: 2020
+# - name: "Student of the Year Nominee Award (the highest award in YNU)"
+#   date: 2020
 # - name: "First-Class Scholarship"
 #   date: 2020
 - name: National Scholarship
