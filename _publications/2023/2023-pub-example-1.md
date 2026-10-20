@@ -3,7 +3,7 @@ title:          "SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-
 date:           2023-10-01 00:01:00 +0800
 selected:       true
 pub:            "NeurIPS"
-pub_date:       "2023 (reviewer’s score: 9/ 9/ 7/ 6/ 5)"
+pub_date:       "2023 (reviewer’s score: 9/ 9/ 7/ 6/ 5), cited by Qwen2-Audio & 𝜏³-Bench"
 
 
 cover:          assets/images/covers/spokenwoz.png
