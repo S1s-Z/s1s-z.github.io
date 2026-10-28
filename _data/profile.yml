@@ -52,18 +52,18 @@ education:
   logo: assets/images/badges/tsinghua.png
   position: "Ph.D. in Computer Science and Technology"
   date: "Sep. 2024 - Present"
-# - name: University of Illinois Urbana-Champaign
-#   logo: assets/images/badges/uiuc.png
-#   position: "Visiting Ph.D. Student"
-#   date: Aug. 2025 - Jun. 2026
+- name: University of Illinois Urbana-Champaign
+  logo: assets/images/badges/uiuc.png
+  position: "Visiting Ph.D. Student"
+  date: Aug. 2025 - Jun. 2026
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
   position: "M.S. in Software Engineering"
   date: Sep. 2021 - Jul. 2024
-- name: Yunnan University 
-  logo: assets/images/badges/ynu.png
-  position: "B.S. at the School of Software (Rank: 1/300+)"
-  date: Sep. 2017 - Jul. 2021
+# - name: Yunnan University 
+#   logo: assets/images/badges/ynu.png
+#   position: "B.S. at the School of Software (Rank: 1/300+)"
+#   date: Sep. 2017 - Jul. 2021
   
 
 experience:
@@ -75,10 +75,10 @@ experience:
 #   logo: assets/images/badges/uiuc.png
 #   position: "Visiting Ph.D. student, advised by Prof. Minjia Zhang"
 #   date: Aug. 2025 - Jun. 2026
-- name: University of Illinois Urbana-Champaign
-  logo: assets/images/badges/uiuc.png
-  position: "Visiting Ph.D. Student"
-  date: Aug. 2025 - Jun. 2026
+# - name: University of Illinois Urbana-Champaign
+#   logo: assets/images/badges/uiuc.png
+#   position: "Visiting Ph.D. Student"
+#   date: Aug. 2025 - Jun. 2026
 # - name: DeepLang AI
 #   logo: assets/images/badges/deeplang.png
 #   position: Research Intern
@@ -87,10 +87,10 @@ experience:
   logo: assets/images/badges/tongyi.png
   position: Research Intern
   date: Jun. 2022 - Jun. 2023
-# - name: SenseTime Research
-#   logo: assets/images/badges/sensetime.png
-#   position: Research Intern
-#   date: Jul. 2021 - Feb. 2022
+- name: SenseTime Research
+  logo: assets/images/badges/sensetime.png
+  position: Research Intern
+  date: Jul. 2021 - Feb. 2022
 
 
 awards:
