@@ -48,17 +48,25 @@ portrait_caption: >-
   Welcome to my homepage! This photo was taken before I started my research in NLP. Compared to back then, I've gained quite a bit of weight and lost quite a bit of hair :(
 
 education:
+# - name: Tsinghua University
+#   logo: assets/images/badges/tsinghua.png
+#   position: "Ph.D. in Computer Science and Technology"
+#   date: "Sep. 2024 - Present"
 - name: Tsinghua University
   logo: assets/images/badges/tsinghua.png
-  position: "Ph.D. in Computer Science and Technology"
+  position: "Ph.D. Student, advised by Maosong Sun"
   date: "Sep. 2024 - Present"
 - name: University of Illinois Urbana-Champaign
   logo: assets/images/badges/uiuc.png
-  position: "Visiting Ph.D. Student"
+  position: "Visiting Ph.D. Student, advised by Minjia Zhang"
   date: Aug. 2025 - Jun. 2026
+# - name: Peking University 
+#   logo: assets/images/badges/PKU_red.png
+#   position: "M.S. in Software Engineering"
+#   date: Sep. 2021 - Jul. 2024
 - name: Peking University 
   logo: assets/images/badges/PKU_red.png
-  position: "M.S. in Software Engineering"
+  position: "M.S., advised by Baobao Chang"
   date: Sep. 2021 - Jul. 2024
 # - name: Yunnan University 
 #   logo: assets/images/badges/ynu.png
